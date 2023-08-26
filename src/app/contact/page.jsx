@@ -4,7 +4,7 @@ import Image from "next/image";
 import Button from "@/components/Button/Button";
 
 export const metadata = {
-  title: "Lama Dev Contact Information",
+  title: "Neeta Gubaju Contact Information",
   description: "This is Contact Page",
 };
 
